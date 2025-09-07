@@ -9,10 +9,7 @@ The Event Management System is a comprehensive solution designed to help users c
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage) 
-- [Contributing](#contributing)   
-- [License](#license)
-- [Contact](#contact)
-
+  
 ## Features
 
 - **Event Creation & Management:** Easily create, update, and delete events.
@@ -126,25 +123,4 @@ Follow these steps to set up the project locally:
 <br/>
 <br/>
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or want to add new features:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to your branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-Distributed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact
-
-For any questions or suggestions, please open an issue or contact the project maintainer.
-
-Project Repository: [Event Management System on GitHub](https://github.com/NAKULMAK05/Event-Management-System)
 
